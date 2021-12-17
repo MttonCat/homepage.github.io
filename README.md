@@ -12,7 +12,7 @@
 [三分钟教你如何用Github找开源项目--值得一看!](https://blog.csdn.net/as480133937/article/details/105611577)<br/>
 # *Linux*
 [Linux常用命令](https://blog.csdn.net/qq_23329167/article/details/83856430/)<br/>
-[Linux终端常用命令]()<br/>
+[Linux终端常用命令](https://blog.csdn.net/qq_44009745/article/details/122004211)<br/>
 # *Windows*
 [Windows常用命令](https://www.cnblogs.com/kekec/p/3662125.html)<br/>
 [Windows系统常用命令及常用DOS命令介绍](https://jingyan.baidu.com/article/9f63fb916898e0c8400f0ef7.html)<br/>
@@ -20,3 +20,7 @@
 # *Mac*
 [Mac系统常用命令之一--常用操作命令](https://www.cnblogs.com/alicecc/p/6757337.html?ivk_sa=1024320u)<br/>
 [MacOS系统终端常用命令](https://zhuanlan.zhihu.com/p/126293387)<br/>
+# [Linux+MYSQL+JAVA基础（免费笔记下载）](https://download.csdn.net/download/qq_44009745/65522160)
+ [jdk-7u51-windows-x64.zip（免费下载）](https://download.csdn.net/download/qq_44009745/65522160)<br/>
+ [MySQL安装程序以及安装详细步骤（免费下载）](https://download.csdn.net/download/qq_44009745/65539041)<br/>
+

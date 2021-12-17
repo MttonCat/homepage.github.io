@@ -12,6 +12,7 @@
 [三分钟教你如何用Github找开源项目--值得一看!](https://blog.csdn.net/as480133937/article/details/105611577)<br/>
 # *Linux*
 [Linux常用命令](https://blog.csdn.net/qq_23329167/article/details/83856430/)<br/>
+[Linux终端常用命令]()<br/>
 # *Windows*
 [Windows常用命令](https://www.cnblogs.com/kekec/p/3662125.html)<br/>
 [Windows系统常用命令及常用DOS命令介绍](https://jingyan.baidu.com/article/9f63fb916898e0c8400f0ef7.html)<br/>

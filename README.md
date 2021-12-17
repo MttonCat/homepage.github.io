@@ -20,11 +20,11 @@
 # *Mac*
 [Mac系统常用命令之一--常用操作命令](https://www.cnblogs.com/alicecc/p/6757337.html?ivk_sa=1024320u)<br/>
 [MacOS系统终端常用命令](https://zhuanlan.zhihu.com/p/126293387)<br/>
-# [Linux+MYSQL+JAVA基础（免费笔记下载）](https://download.csdn.net/download/qq_44009745/65522160)
- [jdk-7u51-windows-x64.zip（免费下载）](https://download.csdn.net/download/qq_44009745/65522160)<br/>
- [MySQL安装程序以及安装详细步骤（免费下载）](https://download.csdn.net/download/qq_44009745/65539041)<br/>
-[eclipse-jee-kepler-SR2-win32-x86_64.7zip(免费下载)](https://download.csdn.net/download/qq_44009745/65558590)
-# 项目（完整源码）
+# [Linux+MYSQL+JAVA基础](https://download.csdn.net/download/qq_44009745/65522160)
+ [jdk-7u51-windows-x64.zip](https://download.csdn.net/download/qq_44009745/65522160)<br/>
+ [MySQL安装程序以及安装详细步骤](https://download.csdn.net/download/qq_44009745/65539041)<br/>
+[eclipse-jee-kepler-SR2-win32-x86_64.7zip](https://download.csdn.net/download/qq_44009745/65558590)
+# 项目
 [商品管理系统完整源码（java+mysql+ui）(原创)（免费下载）](https://download.csdn.net/download/qq_44009745/11939695?spm=1001.2014.3001.5503)<br/>
 
 

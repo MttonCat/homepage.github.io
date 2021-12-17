@@ -10,3 +10,12 @@
 [如何从github上面拷贝源码](https://www.cnblogs.com/xing901022/p/4287064.html)<br/>
 [在github下载的java项目通过idea打开(全流程图文,傻瓜式)](https://blog.csdn.net/m0_37961948/article/details/78161828)<br/>
 [三分钟教你如何用Github找开源项目--值得一看!](https://blog.csdn.net/as480133937/article/details/105611577)<br/>
+# *Linux*
+[Linux常用命令](https://blog.csdn.net/qq_23329167/article/details/83856430/)<br/>
+# *Windows*
+[Windows常用命令](https://www.cnblogs.com/kekec/p/3662125.html)<br/>
+[Windows系统常用命令及常用DOS命令介绍](https://jingyan.baidu.com/article/9f63fb916898e0c8400f0ef7.html)<br/>
+[Windows cmd命令](https://blog.csdn.net/xjz729827161/article/details/78844606)<br/>
+# *Mac*
+[Mac系统常用命令之一--常用操作命令](https://www.cnblogs.com/alicecc/p/6757337.html?ivk_sa=1024320u)<br/>
+[MacOS系统终端常用命令](https://zhuanlan.zhihu.com/p/126293387)<br/>

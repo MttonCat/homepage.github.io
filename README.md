@@ -6,3 +6,4 @@
 [创建文件夹](https://blog.csdn.net/y_bccl27/article/details/87980986)<br/>
 [GitHub 网页中看不到图片的解决方法](https://www.jianshu.com/p/01180d711b0d)<br/>
 [GitHub免费搭建个人网站](https://www.jianshu.com/p/7124c5fe0fa7)
+[如何将java项目发布到github上](https://blog.csdn.net/m0_37809911/article/details/89380098)

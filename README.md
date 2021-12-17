@@ -23,4 +23,14 @@
 # [Linux+MYSQL+JAVA基础（免费笔记下载）](https://download.csdn.net/download/qq_44009745/65522160)
  [jdk-7u51-windows-x64.zip（免费下载）](https://download.csdn.net/download/qq_44009745/65522160)<br/>
  [MySQL安装程序以及安装详细步骤（免费下载）](https://download.csdn.net/download/qq_44009745/65539041)<br/>
+[商品管理系统完整源码（java+mysql+ui）(原创)（免费下载）](https://download.csdn.net/download/qq_44009745/11939695?spm=1001.2014.3001.5503)<br/>
+
+
+
+
+
+
+
+
+
 

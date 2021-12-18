@@ -6,6 +6,7 @@
 
 学历：江苏农林职业技术学院（大专） 物联网应用技术（嵌入式） 南京信息工程大学（本科） 信息管理与信息系统
 # 项目1（自己的项目）
+[java初学者ui练手项目](https://download.csdn.net/download/qq_44009745/66241997)<br/>
 [商品管理系统完整源码（java+mysql+ui）(原创)](https://download.csdn.net/download/qq_44009745/11939695?spm=1001.2014.3001.5503)<br/>
 [仿苏宁易购完整源码+答辩ppt（java+mysql+JavaScript）(原创)](https://download.csdn.net/download/qq_44009745/66124865)<br/>
 [fly社区问答系统完整源码+答辩（Javaweb+Oracle （sql转Oracle）（原创））](https://download.csdn.net/download/qq_44009745/66215733)<br/>
@@ -13,10 +14,21 @@
 [仿网易考拉完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66153684)<br/>
 [仿魅族官网完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66173449)<br/>
 [仿魅族官网完整源码+答辩ppt（java+mysql+JavaScript）(2)](https://download.csdn.net/download/qq_44009745/66224284)<br/>
-# 项目3（资源类项目）
+# 课程资源
+[MySQL安装程序以及安装详细步骤](https://download.csdn.net/download/qq_44009745/65539041)<br/>
+[MyEclipse10及插件安装教程（附安装包+破解文件及教程+汉化插件）](https://download.csdn.net/download/qq_44009745/66087705)<br/>
+[eclipse-jee-kepler-SR2-win32-x86_64.7zip](https://download.csdn.net/download/qq_44009745/65558590)
+[jdk-7u51-windows-x64.zip](https://download.csdn.net/download/qq_44009745/65522160)<br/>
+[jar包合集](https://download.csdn.net/download/qq_44009745/66081476)<br/>
+[Java参考文档].linux 命令手册MYSQL5.1 CHM版中文帮助文档W3School离线手册(2014.3.24)](https://download.csdn.net/download/qq_44009745/65567264)<br/>
 [springmvc框架源码](https://download.csdn.net/download/qq_44009745/66219596)<br/>
-# 课程笔记与资源
+[Android开发从入门到精通/Java Web 主流框架整合开发/HTML5实战/JAVAEE Spring Boot 实战/Oracle入门到精通/ plsql详解/Spring+Mybatis企业应用实战](https://download.csdn.net/download/qq_44009745/66257513)<br/>
 
+# 课程笔记
+[一阶段笔记（Linux+MySQL+JAVA）](https://download.csdn.net/download/qq_44009745/65522160)<br/>
+[二阶段笔记]()<br/>
+[springMVC笔记.pdf ](https://download.csdn.net/download/qq_44009745/66221067)<br/>
+[二阶段笔记]()<br/>
 # *GitHub*
 个人主页（Mttoncat）网址：https://mttoncat.github.io/homepage.github.io/<br/>
 [网络搜索获得在Github上建立自己的主页](https://www.cnblogs.com/fenggwsx/p/13192838.html)<br/>
@@ -39,8 +51,5 @@
 # *Mac*
 [Mac系统常用命令之一--常用操作命令](https://www.cnblogs.com/alicecc/p/6757337.html?ivk_sa=1024320u)<br/>
 [MacOS系统终端常用命令](https://zhuanlan.zhihu.com/p/126293387)<br/>
-# [Linux+MYSQL+JAVA基础](https://download.csdn.net/download/qq_44009745/65522160)
- [jdk-7u51-windows-x64.zip](https://download.csdn.net/download/qq_44009745/65522160)<br/>
- [MySQL安装程序以及安装详细步骤](https://download.csdn.net/download/qq_44009745/65539041)<br/>
-[eclipse-jee-kepler-SR2-win32-x86_64.7zip](https://download.csdn.net/download/qq_44009745/65558590)
+
 

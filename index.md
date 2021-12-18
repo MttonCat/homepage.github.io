@@ -7,7 +7,7 @@
 学历：江苏农林职业技术学院（大专） 物联网应用技术（嵌入式） 南京信息工程大学（本科） 信息管理与信息系统
 # 项目
 [商品管理系统完整源码（java+mysql+ui）(原创)](https://download.csdn.net/download/qq_44009745/11939695?spm=1001.2014.3001.5503)<br/>
-[仿苏宁易购完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66124865)<br/>
+[仿苏宁易购完整源码+答辩ppt（java+mysql+JavaScript）(原创)](https://download.csdn.net/download/qq_44009745/66124865)<br/>
 [仿网易考拉完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66153684)<br/>
 [仿魅族官网完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66173449)<br/>
 # *GitHub*

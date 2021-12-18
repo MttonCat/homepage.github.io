@@ -1,3 +1,9 @@
+# 个人基本信息
+姓名：冉肖杨 性别：男     电话：18451977101      出生年月：1999年01月  
+
+现所在地：重庆 邮箱：1904351529@qq.com  民族：土家族 政治面貌：中共党员户籍：重庆 
+
+学历：江苏农林职业技术学院（大专） 物联网应用技术（嵌入式） 南京信息工程大学（本科） 信息管理与信息系统
 # *GitHub*
 个人主页（Mttoncat）网址：https://mttoncat.github.io/homepage.github.io/<br/>
 [网络搜索获得在Github上建立自己的主页](https://www.cnblogs.com/fenggwsx/p/13192838.html)<br/>

@@ -1,4 +1,19 @@
 # 欢迎来访MttonCat主页
+# 个人基本信息
+姓名：冉肖杨<br/>  
+性别：男<br/>
+电话：18451977101<br/>
+出生年月：1999年01月 <br/>  
+现所在地：重庆<br/>  
+邮箱：1904351529@qq.com<br/>  
+民族：土家族<br/> 
+政治面貌：中共党员<br/>  
+户籍：重庆<br/>  
+# 项目
+[商品管理系统完整源码（java+mysql+ui）(原创)](https://download.csdn.net/download/qq_44009745/11939695?spm=1001.2014.3001.5503)<br/>
+[仿苏宁易购完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66124865)<br/>
+[仿网易考拉完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66153684)<br/>
+[仿网易考拉完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66153684)<br/>
 # *GitHub*
 个人主页（Mttoncat）网址：https://mttoncat.github.io/homepage.github.io/<br/>
 [网络搜索获得在Github上建立自己的主页](https://www.cnblogs.com/fenggwsx/p/13192838.html)<br/>
@@ -11,13 +26,6 @@
 [如何从github上面拷贝源码](https://www.cnblogs.com/xing901022/p/4287064.html)<br/>
 [在github下载的java项目通过idea打开(全流程图文,傻瓜式)](https://blog.csdn.net/m0_37961948/article/details/78161828)<br/>
 [三分钟教你如何用Github找开源项目--值得一看!](https://blog.csdn.net/as480133937/article/details/105611577)<br/>
-# 个人基本信息
-
-# 项目
-[商品管理系统完整源码（java+mysql+ui）(原创)](https://download.csdn.net/download/qq_44009745/11939695?spm=1001.2014.3001.5503)<br/>
-[仿苏宁易购完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66124865)<br/>
-[仿网易考拉完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66153684)<br/>
-[仿网易考拉完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66153684)<br/>
 # *Linux*
 [Linux常用命令](https://blog.csdn.net/qq_23329167/article/details/83856430/)<br/>
 [Linux终端常用命令](https://blog.csdn.net/qq_44009745/article/details/122004211)<br/>

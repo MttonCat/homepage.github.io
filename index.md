@@ -19,6 +19,12 @@
 [Java项目答辩模板PPT](https://download.csdn.net/download/qq_44009745/66287036)<br/>
 [jar包合集](https://download.csdn.net/download/qq_44009745/66081476)<br/>
 [jdk1.7-windows-x64.zip](https://download.csdn.net/download/qq_44009745/66280042)<br/>
+[jdk-8u152-windows-x64.zip](https://download.csdn.net/download/qq_44009745/66308041)<br/>
+[generatorSqlmapCustom.zip](https://download.csdn.net/download/qq_44009745/66300710)<br/>
+[22vd-4008060.rar](https://download.csdn.net/download/qq_44009745/66305916)<br/>
+[font-awesome-4.7.0.zip](https://download.csdn.net/download/qq_44009745/66308759)<br/>
+[虚拟机（虚拟机 +系统镜像）资源](https://blog.csdn.net/qq_44009745/article/details/122017611)<br/> 
+[SSM集合jar包.zip](https://download.csdn.net/download/qq_44009745/66303507)<br/>
 [Java参考文档.linux 命令手册MYSQL5.1 CHM版中文帮助文档W3School离线手册(2014.3.24)](https://download.csdn.net/download/qq_44009745/65567264)<br/>
 [springmvc框架源码](https://download.csdn.net/download/qq_44009745/66219596)<br/>
 [Android开发从入门到精通/Java Web 主流框架整合开发/HTML5实战/JAVAEE Spring Boot 实战/Oracle入门到精通/ plsql详解/Spring+Mybatis企业应用实战](https://download.csdn.net/download/qq_44009745/66257513)<br/>

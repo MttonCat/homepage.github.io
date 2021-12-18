@@ -21,14 +21,17 @@
 [MyEclipse10及插件安装教程（附安装包+破解文件及教程+汉化插件）](https://download.csdn.net/download/qq_44009745/66087705)<br/>
 [eclipse-jee-kepler-SR2-win32-x86_64.7zip](https://download.csdn.net/download/qq_44009745/65558590)
 [jdk-7u51-windows-x64.zip](https://download.csdn.net/download/qq_44009745/65522160)<br/>
+[SWING乱码font.zip](https://download.csdn.net/download/qq_44009745/66284930)<br/>
+[Java项目答辩模板PPT](https://download.csdn.net/download/qq_44009745/66287036)<br/>
 [jar包合集](https://download.csdn.net/download/qq_44009745/66081476)<br/>
-[Java参考文档].linux 命令手册MYSQL5.1 CHM版中文帮助文档W3School离线手册(2014.3.24)](https://download.csdn.net/download/qq_44009745/65567264)<br/>
+[jdk1.7-windows-x64.zip](https://download.csdn.net/download/qq_44009745/66280042)<br/>
+[Java参考文档.linux 命令手册MYSQL5.1 CHM版中文帮助文档W3School离线手册(2014.3.24)](https://download.csdn.net/download/qq_44009745/65567264)<br/>
 [springmvc框架源码](https://download.csdn.net/download/qq_44009745/66219596)<br/>
 [Android开发从入门到精通/Java Web 主流框架整合开发/HTML5实战/JAVAEE Spring Boot 实战/Oracle入门到精通/ plsql详解/Spring+Mybatis企业应用实战](https://download.csdn.net/download/qq_44009745/66257513)<br/>
 
 # 课程笔记
 [一阶段笔记（Linux+MySQL+JAVA）](https://download.csdn.net/download/qq_44009745/65522160)<br/>
-[二阶段笔记]()<br/>
+[二阶段笔记(html/css/js/jquery/xml/jsp/servelt/mvc).docx](https://download.csdn.net/download/qq_44009745/66292124)<br/>
 [springMVC笔记.pdf ](https://download.csdn.net/download/qq_44009745/66221067)<br/>
 [二阶段笔记]()<br/>
 # *GitHub*

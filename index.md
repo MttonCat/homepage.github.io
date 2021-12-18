@@ -11,6 +11,13 @@
 [如何从github上面拷贝源码](https://www.cnblogs.com/xing901022/p/4287064.html)<br/>
 [在github下载的java项目通过idea打开(全流程图文,傻瓜式)](https://blog.csdn.net/m0_37961948/article/details/78161828)<br/>
 [三分钟教你如何用Github找开源项目--值得一看!](https://blog.csdn.net/as480133937/article/details/105611577)<br/>
+# 个人基本信息
+
+# 项目
+[商品管理系统完整源码（java+mysql+ui）(原创)](https://download.csdn.net/download/qq_44009745/11939695?spm=1001.2014.3001.5503)<br/>
+[仿苏宁易购完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66124865)<br/>
+[仿网易考拉完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66153684)<br/>
+[仿网易考拉完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66153684)<br/>
 # *Linux*
 [Linux常用命令](https://blog.csdn.net/qq_23329167/article/details/83856430/)<br/>
 [Linux终端常用命令](https://blog.csdn.net/qq_44009745/article/details/122004211)<br/>
@@ -25,8 +32,4 @@
  [jdk-7u51-windows-x64.zip](https://download.csdn.net/download/qq_44009745/65522160)<br/>
  [MySQL安装程序以及安装详细步骤](https://download.csdn.net/download/qq_44009745/65539041)<br/>
 [eclipse-jee-kepler-SR2-win32-x86_64.7zip](https://download.csdn.net/download/qq_44009745/65558590)
-# 项目
-[商品管理系统完整源码（java+mysql+ui）(原创)](https://download.csdn.net/download/qq_44009745/11939695?spm=1001.2014.3001.5503)<br/>
-[仿苏宁易购完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66124865)<br/>
-[仿网易考拉完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66153684)<br/>
-[仿网易考拉完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66153684)<br/>
+

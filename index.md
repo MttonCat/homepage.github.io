@@ -10,6 +10,8 @@
 [商品管理系统完整源码（java+mysql+ui）(原创)](https://download.csdn.net/download/qq_44009745/11939695?spm=1001.2014.3001.5503)<br/>
 [仿苏宁易购完整源码+答辩ppt（java+mysql+JavaScript）(原创)](https://download.csdn.net/download/qq_44009745/66124865)<br/>
 [fly社区问答系统完整源码+答辩（Javaweb+Oracle （sql转Oracle）（原创））](https://download.csdn.net/download/qq_44009745/66215733)<br/>
+[基于Java的在线投票网站源码（sql+Java）（原创）](https://download.csdn.net/download/qq_44009745/66267744)<br/>
+
 # 项目2（借鉴同学）
 [仿网易考拉完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66153684)<br/>
 [仿魅族官网完整源码+答辩ppt（java+mysql+JavaScript）](https://download.csdn.net/download/qq_44009745/66173449)<br/>
